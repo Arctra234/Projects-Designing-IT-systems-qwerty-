@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj",
         "projectName": "ProjectFactoryMethod",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectFactoryMethod\\ProjectFactoryMethod.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ProjectFactoryMethod\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectFactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
