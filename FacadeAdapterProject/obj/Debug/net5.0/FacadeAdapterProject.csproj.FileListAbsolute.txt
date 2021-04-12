@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.exe
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.deps.json
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.runtimeconfig.json
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.dll
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\ref\FacadeAdapterProject.dll
+C:\Users\Admin\source\repos\FacadeAdapterProject\bin\Debug\net5.0\FacadeAdapterProject.pdb
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.dll
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\ref\FacadeAdapterProject.dll
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.pdb
+C:\Users\Admin\source\repos\FacadeAdapterProject\obj\Debug\net5.0\FacadeAdapterProject.genruntimeconfig.cache

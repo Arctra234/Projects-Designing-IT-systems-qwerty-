@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ProjectSingelton\\ProjectSingleton.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectSingelton\\ProjectSingleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ProjectSingelton\\ProjectSingleton.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectSingelton\\ProjectSingleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ProjectSingelton\\ProjectSingleton.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectSingelton\\ProjectSingleton.csproj",
         "projectName": "ProjectSingleton",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ProjectSingelton\\ProjectSingleton.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectSingelton\\ProjectSingleton.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ProjectSingelton\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Projects-Designing-IT-systems-qwerty-\\ProjectSingelton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

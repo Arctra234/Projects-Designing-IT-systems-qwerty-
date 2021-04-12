@@ -13,7 +13,7 @@ namespace ProjectSingleton
             var text1 = new FilewWiersz();
             var text2 = new FilewWiersz();
 
-            text1.WriteText("Ala ma kota, a kot ma Alę");
+            text1.WriteText("Ala ma kota, a kot ma Alę ");
             text2.WriteText("i żyć bez siebie nie mogą wcale");
 
             text1.Save();
@@ -24,11 +24,13 @@ namespace ProjectSingleton
 
             // var singleton = new FileWierszSingleton(); // Nie można stworzyć nowej instancji Singleton 
 
-            singleton1.WriteText("Ala ma kota, a kot ma Alę");
+            singleton1.WriteText("Ala ma kota, a kot ma Alę ");
             singleton2.WriteText("i żyć bez siebie nie mogą wcale");
 
             singleton1.Save();
             singleton2.Save();
+
+            Console.ReadLine();
         }
     }
 }

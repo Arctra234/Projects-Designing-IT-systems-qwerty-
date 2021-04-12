@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.exe
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.deps.json
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.runtimeconfig.json
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.dll
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ref\ProjectSingleton.dll
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\bin\Debug\net5.0\ProjectSingleton.pdb
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.dll
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ref\ProjectSingleton.dll
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.pdb
+C:\Users\Admin\source\repos\Projects-Designing-IT-systems-qwerty-\ProjectSingelton\obj\Debug\net5.0\ProjectSingleton.genruntimeconfig.cache

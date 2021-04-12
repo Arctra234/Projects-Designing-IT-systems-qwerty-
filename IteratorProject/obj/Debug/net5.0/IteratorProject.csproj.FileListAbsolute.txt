@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.exe
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.deps.json
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.runtimeconfig.json
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.dll
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\ref\IteratorProject.dll
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\bin\Debug\net5.0\IteratorProject.pdb
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.dll
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\ref\IteratorProject.dll
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.pdb
+C:\Users\Admin\source\repos\IteratorTemplateMethodProject\obj\Debug\net5.0\IteratorProject.genruntimeconfig.cache
